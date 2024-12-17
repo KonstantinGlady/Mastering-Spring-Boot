@@ -1,8 +1,8 @@
-package mastering.spring.boot.controllers;
+package mastering.spring.boot.chapter1.controllers;
 
-import mastering.spring.boot.exceptions.NonUniqueEmailException;
-import mastering.spring.boot.models.User;
-import mastering.spring.boot.repositores.UserRepository;
+import mastering.spring.boot.chapter1.exceptions.NonUniqueEmailException;
+import mastering.spring.boot.chapter1.models.User;
+import mastering.spring.boot.chapter1.repositores.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;

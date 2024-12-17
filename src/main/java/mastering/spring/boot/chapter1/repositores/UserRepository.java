@@ -1,6 +1,6 @@
-package mastering.spring.boot.repositores;
+package mastering.spring.boot.chapter1.repositores;
 
-import mastering.spring.boot.models.User;
+import mastering.spring.boot.chapter1.models.User;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import reactor.core.publisher.Mono;
 
